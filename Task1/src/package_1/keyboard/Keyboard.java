@@ -1,4 +1,4 @@
-package package_1;
+package package_1.keyboard;
 
 public class Keyboard {
     private KeyboardType keyboardType;

@@ -1,5 +1,11 @@
 package package_1;
 
+import package_1.harddrive.HardDrive;
+import package_1.keyboard.Keyboard;
+import package_1.monitor.Monitor;
+import package_1.processor.Processor;
+import package_1.ram.Ram;
+
 public class Computer {
     private Processor processor;
     private Ram ram;

@@ -1,3 +1,5 @@
+package package_1.arithmetic_calculator;
+
 public class ArithmeticCalculator {
     private double a;
     private double b;

@@ -1,4 +1,4 @@
-package package_1;
+package package_1.harddrive;
 
 public class HardDrive {
     private HardDriveType hardDriveType;

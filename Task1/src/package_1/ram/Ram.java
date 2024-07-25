@@ -1,4 +1,4 @@
-package package_1;
+package package_1.ram;
 
 public class Ram {
     private RamType ramType;

@@ -1,4 +1,20 @@
 import package_1.*;
+import package_1.arithmetic_calculator.ArithmeticCalculator;
+import package_1.arithmetic_calculator.Operation;
+import package_1.harddrive.HardDrive;
+import package_1.harddrive.HardDriveType;
+import package_1.keyboard.Keyboard;
+import package_1.keyboard.KeyboardLighting;
+import package_1.keyboard.KeyboardType;
+import package_1.monitor.Monitor;
+import package_1.monitor.MonitorType;
+import package_1.processor.Processor;
+import package_1.processor.ProcessorCoreCount;
+import package_1.processor.ProcessorFrequency;
+import package_1.processor.ProcessorMaker;
+import package_1.ram.Ram;
+import package_1.ram.RamSize;
+import package_1.ram.RamType;
 
 import java.util.Scanner;
 
